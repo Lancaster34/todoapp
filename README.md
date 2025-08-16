@@ -1,6 +1,6 @@
 # todoapp
 
-A new Flutter project.
+App para estudar LocalStorage
 
 ## Getting Started
 
