@@ -22,9 +22,6 @@ class HomePage extends StatefulWidget {
 
   HomePage() {
     items = [];
-    //items.add(Item(title: "Item 1", done: false));
-    //items.add(Item(title: "Item 2", done: true));
-    //items.add(Item(title: "Item 3", done: false));
   }
   @override
   State<HomePage> createState() => _HomePageState();
